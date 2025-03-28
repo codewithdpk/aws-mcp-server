@@ -52,7 +52,7 @@ In this case, we’ll add our single weather server like so:
         "weather": {
             "command": "node",
             "args": [
-                "/ABSOLUTE/PATH/TO/PARENT/FOLDER/weather/build/index.js"
+                "/ABSOLUTE/PATH/TO/PARENT/FOLDER/aws-mcp-server/build/index.js"
             ]
         }
     }
