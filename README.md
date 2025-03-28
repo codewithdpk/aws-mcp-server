@@ -37,6 +37,8 @@ npm run build
 
 ### 5. Testing your server with Claude for Desktop
 
+<img width="666" alt="Screenshot 2025-03-28 at 6 33 16 PM" src="https://github.com/user-attachments/assets/bc5a53cc-d12e-49da-8053-540cf80b47c5" />
+
 Claude for Desktop is not yet available on Linux. Linux users can proceed to the Building a client tutorial to build an MCP client that connects to the server we just built.
 
 First, make sure you have Claude for Desktop installed. You can install the latest version here. If you already have Claude for Desktop, make sure it’s updated to the latest version.
