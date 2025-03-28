@@ -49,7 +49,7 @@ In this case, we’ll add our single weather server like so:
 ```json
 {
     "mcpServers": {
-        "weather": {
+        "aws-mcp-server": {
             "command": "node",
             "args": [
                 "/ABSOLUTE/PATH/TO/PARENT/FOLDER/aws-mcp-server/build/index.js"
